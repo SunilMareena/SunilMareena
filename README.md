@@ -2,7 +2,7 @@
 - 👀 I’m interested in Supply Chain Management and Logistics 
 - 🌱 I’m currently learning Supply Chain Management and Logistics 
 - 💞️ I’m looking to collaborate on the above projects 
-- 📫 How to reach me ...
+- 📫 How to reach me saldanhasantosh9@gmail.com
 
 <!---
 SunilMareena/SunilMareena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
